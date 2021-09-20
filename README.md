@@ -1,2 +1,2 @@
 # PersonalSite
-Just a Website I made
+Just a wesite i made for a class
